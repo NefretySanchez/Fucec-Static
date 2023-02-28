@@ -86,7 +86,7 @@
         !(function (t, e) {
           if ("function" !== typeof e && null !== e)
             throw new TypeError(
-              "Super expression must either be null or a function"
+              "Super expression must either be null  or a function"
             );
           (t.prototype = Object.create(e && e.prototype, {
             constructor: { value: t, writable: !0, configurable: !0 },

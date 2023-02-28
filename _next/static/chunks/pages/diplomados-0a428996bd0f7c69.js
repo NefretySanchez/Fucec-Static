@@ -118,7 +118,7 @@
                   return (0, r.jsxs)("main", {
                     children: [
                       (0, r.jsx)(u.Z, {
-                        pageTitle: "Nuestros diplomados",
+                        pageTitle: "Nuestros diplomados ",
                         bannerImg: "Rect\xe1ngulo%20111.png",
                       }),
                       (0, r.jsx)(c.Z, {}),

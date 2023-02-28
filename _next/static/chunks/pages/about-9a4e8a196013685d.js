@@ -266,7 +266,7 @@
                                     "banner__thumb d-none d-sm-block d-md-none d-lg-block",
                                   children: (0, r.jsx)("img", {
                                     src: "assets/img/img_fucec/Enmascarar grupo 2.png",
-                                    alt: "img not found",
+                                    alt: "not found",
                                   }),
                                 }),
                               ],

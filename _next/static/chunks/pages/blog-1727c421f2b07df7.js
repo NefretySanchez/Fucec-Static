@@ -329,7 +329,7 @@
                             (0, r.jsx)("div", {
                               className: "col-xxl-4 col-xl-4 col-lg-4",
                               children: (0, r.jsxs)("div", {
-                                className: "blog__sidebar pl-70",
+                                className: "blog__sidebar  pl-70",
                                 children: [
                                   (0, r.jsx)(p.Z, {}),
                                   (0, r.jsx)(d.Z, {}),

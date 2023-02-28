@@ -425,7 +425,7 @@
                                   children: (0, r.jsx)("a", {
                                     children: (0, r.jsx)("img", {
                                       src: "assets/img/img_fucec/blog-item-2.png",
-                                      alt: "img not found",
+                                      alt: "not found",
                                     }),
                                   }),
                                 }),
