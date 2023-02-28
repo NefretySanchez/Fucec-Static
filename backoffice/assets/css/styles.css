@@ -1,0 +1,20 @@
+.unable span{
+  text-decoration: line-through;
+  color: #aaa !important;
+}
+
+#message-datail.modal{
+  overflow: auto;
+}
+
+#message-datail .modal-dialog{
+  max-width: 80%;
+}
+
+#create-news.modal{
+  overflow: auto;
+}
+
+#create-news .modal-dialog{
+  max-width: 80%;
+}
